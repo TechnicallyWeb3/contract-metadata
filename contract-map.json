@@ -4401,5 +4401,12 @@
     "erc20": true,
     "symbol": "COPE",
     "decimals": 18
+  },
+  "0x359c3ad611e377e050621fb3de1c2f4411684e92": {
+    "name": "TikToken",
+    "logo": "TIK.png",
+    "erc20": true,
+    "symbol": "TIK",
+    "decimals": 18
   }
 }
